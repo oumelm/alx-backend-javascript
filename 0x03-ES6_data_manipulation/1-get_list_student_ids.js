@@ -5,5 +5,4 @@ const getListStudentIds = (myArray) => {
   return myArray.map((studentId) => studentId.id);
 };
 
-
 export default getListStudentIds;
